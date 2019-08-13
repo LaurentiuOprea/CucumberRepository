@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ddaf15b-b827-4f8f-8e28-bcee561e1fc7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PMkuScv9AYIaBrAfoq4RYSCVP4" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2862069" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="testProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lauoprea\IdeaProjects\newProject\src\test\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RunCucumberTest">
+    <configuration name="RunCucumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="newProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testProject" />
+      <option name="MAIN_CLASS_NAME" value="testProject.RunCucumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testFeature.feature" type="substepsFeature" factoryName="Substeps Feature" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="model">
+        <SubstepsRunnerConfigurationModel>
+          <option name="classPathString" />
+          <option name="homePath" />
+          <option name="modulePath" value="$PROJECT_DIR$/newProject.iml" />
+          <option name="myListener" />
+          <option name="nonStrictKeywordPrecedence" />
+          <option name="pathToFeature" value="$PROJECT_DIR$/src/test/resources/testProject/testFeature.feature" />
+          <option name="scenarioName" />
+          <option name="stepImplentationClassNames" />
+          <option name="strict" value="false" />
+          <option name="subStepDefinitionDirectory" />
+          <option name="tags" />
+          <option name="versionString" />
+          <option name="workingDir" value="$PROJECT_DIR$" />
+        </SubstepsRunnerConfigurationModel>
+      </option>
+      <option name="classPathString" />
+      <option name="homePath" />
+      <option name="modulePath" value="$PROJECT_DIR$/newProject.iml" />
+      <option name="myListener" />
+      <option name="nonStrictKeywordPrecedence" />
+      <option name="pathToFeature" value="$PROJECT_DIR$/src/test/resources/testProject/testFeature.feature" />
+      <option name="scenarioName" />
+      <option name="stepImplentationClassNames" />
+      <option name="strict" value="false" />
+      <option name="subStepDefinitionDirectory" />
+      <option name="tags" />
+      <option name="versionString" />
+      <option name="workingDir" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunCucumberTest" />
+        <item itemvalue="Substeps Feature.testFeature.feature" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ddaf15b-b827-4f8f-8e28-bcee561e1fc7" name="Default Changelist" comment="" />
+      <created>1565691574422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565691574422</updated>
+    </task>
+    <servers />
+  </component>
+</project>
